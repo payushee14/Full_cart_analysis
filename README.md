@@ -1,4 +1,5 @@
 # Full_cart_analysis
+Skills Used : **Excel**
 1) business requirement is as  they want how many sales happend in previous year
    and  background details of most purchased product and from which platform most sales happend.
 2)conducted Data analysis and data cleaned process if is there any invalid/wrong data is present ot not.
